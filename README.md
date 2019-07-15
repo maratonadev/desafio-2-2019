@@ -72,7 +72,7 @@ Os temas que fazem parte do escopo do tutor virtual são os seguintes:
 * Múltiplos e divisores (máximo divisor comum - MDC e mínimo múltiplo comum - MMC);
 * Estimativa, escala e probabilidade;
 * Expressão numérica e cálculo mental;
-* Trangram;
+* Tangram;
 * Mosaico e tabelas;
 * Medida de tempo, massa, peso e grama;
 * Ordens, classes e conjuntos;
